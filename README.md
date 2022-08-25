@@ -6,7 +6,7 @@ We developed a Bi-LSTM Model to predict the relationship between the Title and t
 
 ## Usage
 ### Model Training
-#Get data from Youtube
+#Get data from Youtube  
 `$ python Youtube_Crawler.py`  
 `$ python model_F.py`  
 
