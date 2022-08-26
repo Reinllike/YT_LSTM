@@ -1,14 +1,16 @@
-# YT_LSTM
-YT_Title_Predict
+# YouTube Bi-LSTM Model
 
-We developed a Bi-LSTM Model to predict the relationship between the Title and the views of YouTube videos.
+## Use Deep learning to predict the viewcounts of YouTube videos
+We developed a Bi-LSTM Model to study the relationship between the title and the viewcounts of YouTube videos. This model allows YouTubers to predict the viewcounts of their own video titles before the video is published and pick the one with the best viewcounts performance!
 
 
 ## Usage
 ### Model Training
-#Get data from Youtube  
-`$ python Youtube_Crawler.py`  
-`$ python model_F.py`  
+```
+# Get data from Youtube via Youtube_Crawler.py
+$ python Youtube_Crawler.py  
+$ python model_F.py
+```
 
 
 ### Visualization
