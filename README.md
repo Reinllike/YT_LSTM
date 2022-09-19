@@ -21,6 +21,6 @@ $ python model_F.py
 ![doc2Vec](https://user-images.githubusercontent.com/111637364/186747996-65ea93cc-5dc1-452b-8874-51aec3158ffe.jpg)
 
 
-### Prediction
+### Model Prediction
 `$ python github_predict.py`  
 
